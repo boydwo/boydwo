@@ -1,6 +1,7 @@
 # 👋 Hi ! I'm Marcos Tulio.
 
-- **Node.js Engineer**  
+- **Node.js**
+- **Python**
 
 ## 📬 **Contact**
 
