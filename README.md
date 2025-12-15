@@ -1,8 +1,5 @@
 # 👋 Hi ! I'm Marcos Tulio.
 
-- **Node.js**
-- **Python**
-
 ## 📬 **Contact**
 
 <div align="center">
